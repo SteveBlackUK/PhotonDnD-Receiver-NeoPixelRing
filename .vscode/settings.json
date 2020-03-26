@@ -4,5 +4,7 @@
     "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}",
     "files.associations": {
         "*.ino": "cpp"
-    }
+    },
+    "particle.targetDevice": "NeoPixelRing",
+    "particle.firmwareVersion": "1.2.1"
 }
